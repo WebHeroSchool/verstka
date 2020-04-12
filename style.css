@@ -1,0 +1,12 @@
+p, a, h1, ul, h2, h3 {
+  color: #FE642E;
+  font-family: "Times New Roman";
+}
+article {
+  border: medium ridge grey;
+}
+li {font-weight: bold;
+}
+footer, aside {
+  border: 1px double #E0F8E0;
+}
