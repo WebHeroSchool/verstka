@@ -1,7 +1,11 @@
-p, a, h1, ul, h2, h3 {
-  color: #FE642E;
-  font-family: "Times New Roman";
+h1, h2, h3 {
+  font-family: 'Pacifico', cursive;
+  color: green;
 }
+a, ul, p {
+  color: #FE642E;
+  font-family: 'Open Sans', sans-serif;
+}  
 article {
   border: medium ridge grey;
 }
