@@ -1,0 +1,16 @@
+h1, h2, h3 {
+  font-family: 'Pacifico', cursive;
+  color: green;
+}
+a, ul, p {
+  color: #FE642E;
+  font-family: 'Open Sans', sans-serif;
+}  
+article {
+  border: medium ridge grey;
+}
+li {font-weight: bold;
+}
+footer, aside {
+  border: 1px double #E0F8E0;
+}
